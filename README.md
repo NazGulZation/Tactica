@@ -1,4 +1,3 @@
-```markdown
 # Tactica - Python Tactical Game Engine
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -123,4 +122,3 @@ For questions, suggestions, or bug reports, please open an issue on the [GitHub 
 ---
 
 **Enjoy building your tactical games with Tactica!**
-```
