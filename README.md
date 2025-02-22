@@ -90,35 +90,6 @@ The Tactica project is organized into the following directories and files:
     *   **`UnitType.py`**: Model for the `UnitType` object.
 *   **`Start.py`**: A script that demonstrates how to use the Tactica engine by setting up and running a basic game example.
 
-## Roadmap
-
-Tactica is a work in progress. Future development plans include:
-
-*   **Game Logic Implementation:** Implement core game mechanics such as unit movement, combat, turn management, and win conditions.
-*   **Advanced Map Features:**  Introduce terrain types, obstacles, and more complex map generation.
-*   **Unit Actions and Abilities:** Expand unit capabilities with different actions and special abilities.
-*   **User Interface:** Develop a more interactive user interface, potentially using a graphical library.
-*   **Persistence:** Implement options for saving and loading game states to persist games beyond a single session.
-*   **More Unit Types and Game Assets:** Expand the variety of unit types and potentially add visual assets.
-
-## Contributing
-
-Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to fork the repository and submit pull requests. Please ensure your code adheres to good Python practices and includes comments where necessary.
-
-1.  **Fork the repository.**
-2.  **Create a new branch** for your feature or bug fix.
-3.  **Make your changes** and commit them with clear and descriptive commit messages.
-4.  **Push your changes** to your forked repository.
-5.  **Submit a pull request** to the main repository.
-
-## License
-
-Tactica is released under the [MIT License](LICENSE). See the `LICENSE` file for more details. This license allows for free use, modification, and distribution of the project, even for commercial purposes.
-
-## Contact
-
-For questions, suggestions, or bug reports, please open an issue on the [GitHub repository]([repository-url - replace with actual repo url when available]).
-
 ---
 
 **Enjoy building your tactical games with Tactica!**
